@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="trans1">
+        <item>2</item>
+        <item>8</item>
+        <item>10</item>
+        <item>16</item>
+    </string-array>
+    <string-array name="trans">
+        <item>平方英尺(ft²)</item>
+        <item>平方米(m²)</item>
+        <item>英寸(in)</item>
+        <item>厘米(cm)</item>
+        <item>开尔文(K)</item>
+        <item>摄氏度(°C)</item>
+        <item>磅(lb)</item>
+        <item>千克(kg)</item>
+        <item>升(L)</item>
+        <item>立方米(m³)</item>
+    </string-array>
+</resources>
